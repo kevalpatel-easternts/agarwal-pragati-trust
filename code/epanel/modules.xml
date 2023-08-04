@@ -1,0 +1,278 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<ProCMS Version="2" xmlns="procms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modules>
+			<moduleId>1</moduleId>
+			<moduleTitle>Contact</moduleTitle>
+			<moduleName>Contact</moduleName>
+			<moduleFile>contact</moduleFile>
+			<moduleController>contact</moduleController>
+	</modules>
+	<modules>
+		<moduleId>2</moduleId>
+		<moduleTitle>User Management</moduleTitle>
+		<moduleName>User</moduleName>
+		<moduleFile>user</moduleFile>
+		<moduleController>user</moduleController>
+	</modules>	
+	<modules>
+		<moduleId>3</moduleId>
+		<moduleTitle>User Group Management</moduleTitle>
+		<moduleName>User Group</moduleName>
+		<moduleFile>usergroup</moduleFile>
+		<moduleController>user</moduleController>
+	</modules>
+	<modules>
+		<moduleId>4</moduleId>
+		<moduleTitle>Slider Management</moduleTitle>
+		<moduleName>Slider</moduleName>
+		<moduleFile>slider</moduleFile>
+		<moduleController>slider</moduleController>
+	</modules>
+	<modules>
+		<moduleId>5</moduleId>
+		<moduleTitle>Permission Management</moduleTitle>
+		<moduleName>Permission</moduleName>
+		<moduleFile>permission</moduleFile>
+		<moduleController>permission</moduleController>
+	</modules>
+	<modules>
+		<moduleId>6</moduleId>
+		<moduleTitle>Pages Management</moduleTitle>
+		<moduleName>Pages</moduleName>
+		<moduleFile>pages</moduleFile>
+		<moduleController>pages</moduleController>
+	</modules>	
+	<modules>	
+			<moduleId>7</moduleId>
+			<moduleTitle>Page Image Management</moduleTitle>
+			<moduleName>Page Images</moduleName>
+			<moduleFile>pageimages</moduleFile>
+			<moduleController>pages</moduleController>
+	</modules>		
+	<modules>
+			<moduleId>8</moduleId>
+			<moduleTitle>Homecontent Management</moduleTitle>
+			<moduleName>Homecontent</moduleName>
+			<moduleFile>homecontent</moduleFile>
+			<moduleController>pages</moduleController>
+	</modules>
+	<modules>
+			<moduleId>9</moduleId>
+			<moduleTitle>Subscription List</moduleTitle>
+			<moduleName>Subscription List</moduleName>
+			<moduleFile>subscription</moduleFile>
+			<moduleController>subscription</moduleController>
+	</modules>
+	<modules>
+			<moduleId>10</moduleId>
+			<moduleTitle>Job Data</moduleTitle>
+			<moduleName>Job Data</moduleName>
+			<moduleFile>job</moduleFile>
+			<moduleController>job</moduleController>
+	</modules>
+	<modules>
+			<moduleId>11</moduleId>
+			<moduleTitle>epanel</moduleTitle>
+			<moduleName>epanel</moduleName>
+			<moduleFile>epanel</moduleFile>
+			<moduleController>settings</moduleController>
+	</modules>
+	<modules>
+			<moduleId>12</moduleId>
+			<moduleTitle>website</moduleTitle>
+			<moduleName>website</moduleName>
+			<moduleFile>website</moduleFile>
+			<moduleController>settings</moduleController>
+	</modules>
+	<modules>
+			<moduleId>13</moduleId>
+			<moduleTitle>News</moduleTitle>
+			<moduleName>News</moduleName>
+			<moduleFile>news</moduleFile>
+			<moduleController>news</moduleController>
+	</modules>
+	<modules>
+			<moduleId>14</moduleId>
+			<moduleTitle>News Type</moduleTitle>
+			<moduleName>News Type</moduleName>
+			<moduleFile>newsmaster</moduleFile>
+			<moduleController>news</moduleController>
+	</modules>
+	<modules>
+			<moduleId>15</moduleId>
+			<moduleTitle>Testimonial</moduleTitle>
+			<moduleName>Testimonial</moduleName>
+			<moduleFile>testimonial</moduleFile>
+			<moduleController>testimonial</moduleController>
+	</modules>
+	<modules>
+			<moduleId>16</moduleId>
+			<moduleTitle>Testimonial Type</moduleTitle>
+			<moduleName>Testimonial Type</moduleName>
+			<moduleFile>testimonialtype</moduleFile>
+			<moduleController>testimonial</moduleController>
+	</modules>
+	<modules>
+			<moduleId>17</moduleId>
+			<moduleTitle>Album Type</moduleTitle>
+			<moduleName>Album Type</moduleName>
+			<moduleFile>albumtype</moduleFile>
+			<moduleController>gallery</moduleController>
+	</modules>
+	<modules>
+			<moduleId>18</moduleId>
+			<moduleTitle>Album</moduleTitle>
+			<moduleName>Album</moduleName>
+			<moduleFile>album</moduleFile>
+			<moduleController>gallery</moduleController>
+	</modules>
+	<modules>
+			<moduleId>19</moduleId>
+			<moduleTitle>Gallery</moduleTitle>
+			<moduleName>Gallery</moduleName>
+			<moduleFile>gallery</moduleFile>
+			<moduleController>gallery</moduleController>
+	</modules>
+	<modules>
+			<moduleId>20</moduleId>
+			<moduleTitle>Project Type</moduleTitle>
+			<moduleName>Project Type</moduleName>
+			<moduleFile>project_type</moduleFile>
+			<moduleController>projects</moduleController>
+	</modules>
+	<modules>
+			<moduleId>21</moduleId>
+			<moduleTitle>Projects</moduleTitle>
+			<moduleName>Projects</moduleName>
+			<moduleFile>projects</moduleFile>
+			<moduleController>projects</moduleController>
+	</modules>
+	<modules>
+			<moduleId>22</moduleId>
+			<moduleTitle>Project Floor Plans</moduleTitle>
+			<moduleName>Project Floor Plans</moduleName>
+			<moduleFile>projectfloors</moduleFile>
+			<moduleController>projects</moduleController>
+	</modules>
+	<modules>
+			<moduleId>23</moduleId>
+			<moduleTitle>Project Slider Images</moduleTitle>
+			<moduleName>Project Slider Images</moduleName>
+			<moduleFile>projectslider</moduleFile>
+			<moduleController>projects</moduleController>
+	</modules>
+	<modules>
+			<moduleId>24</moduleId>
+			<moduleTitle>Project Images</moduleTitle>
+			<moduleName>Project Images</moduleName>
+			<moduleFile>projectimages</moduleFile>
+			<moduleController>projects</moduleController>
+	</modules>
+	<modules>
+			<moduleId>25</moduleId>
+			<moduleTitle>Brochure Downloads</moduleTitle>
+			<moduleName>Brochure Downloads</moduleName>
+			<moduleFile>downloads_list</moduleFile>
+			<moduleController>downloads_list</moduleController>
+	</modules>
+    <modules>
+			<moduleId>26</moduleId>
+			<moduleTitle>Our download</moduleTitle>
+			<moduleName>Our download</moduleName>
+			<moduleFile>download</moduleFile>
+			<moduleController>download</moduleController>
+	</modules>
+	 <modules>
+			<moduleId>27</moduleId>
+			<moduleTitle>home</moduleTitle>
+			<moduleName>home</moduleName>
+			<moduleFile>home</moduleFile>
+			<moduleController>home</moduleController>
+	</modules>
+    <modules>
+			<moduleId>28</moduleId>
+			<moduleTitle>Advantage Page</moduleTitle>
+			<moduleName>Advantage Page</moduleName>
+			<moduleFile>advantage</moduleFile>
+			<moduleController>advantage</moduleController>
+	</modules>
+    <modules>
+			<moduleId>29</moduleId>
+			<moduleTitle>Application Page</moduleTitle>
+			<moduleName>Application Page</moduleName>
+			<moduleFile>application</moduleFile>
+			<moduleController>application</moduleController>
+	</modules>
+     <modules>
+			<moduleId>30</moduleId>
+			<moduleTitle>Environment Page</moduleTitle>
+			<moduleName>Environment Page</moduleName>
+			<moduleFile>environment</moduleFile>
+			<moduleController>environment</moduleController>
+	</modules>
+     <modules>
+			<moduleId>31</moduleId>
+			<moduleTitle>Download Page</moduleTitle>
+			<moduleName>Download Page</moduleName>
+			<moduleFile>downloads</moduleFile>
+			<moduleController>downloads</moduleController>
+	</modules>
+     <modules>
+			<moduleId>32</moduleId>
+			<moduleTitle>galleryhome</moduleTitle>
+			<moduleName>galleryhome</moduleName>
+			<moduleFile>galleryhome</moduleFile>
+			<moduleController>galleryhome</moduleController>
+	</modules>
+     <modules>
+			<moduleId>33</moduleId>
+			<moduleTitle>downloads</moduleTitle>
+			<moduleName>downloads</moduleName>
+			<moduleFile>downloads</moduleFile>
+			<moduleController>downloads</moduleController>
+	</modules>
+  <modules>
+			<moduleId>34</moduleId>
+			<moduleTitle>donation</moduleTitle>
+			<moduleName>donation</moduleName>
+			<moduleFile>donation</moduleFile>
+			<moduleController>donation</moduleController>
+	</modules>
+	
+	  <modules>
+			<moduleId>35</moduleId>
+			<moduleTitle>video</moduleTitle>
+			<moduleName>video</moduleName>
+			<moduleFile>video</moduleFile>
+			<moduleController>video</moduleController>
+	</modules>
+	<modules>
+			<moduleId>36</moduleId>
+			<moduleTitle>membertype</moduleTitle>
+			<moduleName>membertype</moduleName>
+			<moduleFile>membertype</moduleFile>
+			<moduleController>member</moduleController>
+	</modules>
+	<modules>
+			<moduleId>37</moduleId>
+			<moduleTitle>member</moduleTitle>
+			<moduleName>member</moduleName>
+			<moduleFile>member</moduleFile>
+			<moduleController>member</moduleController>
+	</modules>
+		<modules>
+			<moduleId>38</moduleId>
+			<moduleTitle>hall</moduleTitle>
+			<moduleName>hall</moduleName>
+			<moduleFile>hall</moduleFile>
+			<moduleController>hall</moduleController>
+	</modules>
+	<modules>
+			<moduleId>39</moduleId>
+			<moduleTitle>Product</moduleTitle>
+			<moduleName>Product</moduleName>
+			<moduleFile>product</moduleFile>
+			<moduleController>products</moduleController>
+	</modules>
+
+</ProCMS>
